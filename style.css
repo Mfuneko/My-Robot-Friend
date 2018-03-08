@@ -27,9 +27,11 @@ h1 {
 }
 .left_leg {
 	 background-color: #DE3831;
+	 z-index: -1;
 }
 .right_leg {
 	 background-color: #002395;
+	 z-index: -1;
 }
 
 .head { 
